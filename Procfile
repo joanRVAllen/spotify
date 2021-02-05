@@ -1,1 +1,1 @@
-web: gunicorn spotify_project:app
+web: gunicorn spotify_project:create_app
